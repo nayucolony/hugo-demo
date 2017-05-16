@@ -91,12 +91,12 @@ URIの後に""でテキストを囲ればタイトルとして表現出来ます
 ### 画像 ###
 
 「インライン」スタイル：
-![Loggix](/testimage/profile_suda.jpg "Loggix")
+![Loggix](../../testimage/profile_suda.jpg "Loggix")
 
 「リファレンス」スタイル：
 ![Loggix][loggix_icon]
 
-[loggix_icon]: /testimage/profile_suda.jpg "Loggix"
+[loggix_icon]: ../../testimage/profile_suda.jpg "Loggix"
 
 ### コード ###
 

@@ -105,10 +105,10 @@ URIの後に&amp;rdquo;&amp;ldquo;でテキストを囲ればタイトルとし�
 &lt;h3 id=&#34;画像&#34;&gt;画像&lt;/h3&gt;
 
 &lt;p&gt;「インライン」スタイル：
-&lt;img src=&#34;https://nayucolony.github.io/hugo-demo/testimage/profile_suda.jpg&#34; alt=&#34;Loggix&#34; title=&#34;Loggix&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;../../testimage/profile_suda.jpg&#34; alt=&#34;Loggix&#34; title=&#34;Loggix&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;「リファレンス」スタイル：
-&lt;img src=&#34;https://nayucolony.github.io/hugo-demo/testimage/profile_suda.jpg&#34; alt=&#34;Loggix&#34; title=&#34;Loggix&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;../../testimage/profile_suda.jpg&#34; alt=&#34;Loggix&#34; title=&#34;Loggix&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;コード&#34;&gt;コード&lt;/h3&gt;
 
